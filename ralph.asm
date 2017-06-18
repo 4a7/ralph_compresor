@@ -1,4 +1,3 @@
-;Instituto Tecnologico de Costa Rica
 ;Arquitectura de Computadoras
 ;II Semestre 2016
 ;5/9/2016
