@@ -1,14 +1,10 @@
 ;Instituto Tecnologico de Costa Rica
 ;Arquitectura de Computadoras
-;Profesor Kirstein Gätjens Soto
-;Tarea: Ralph el Compresor
-;Juan Fernando Villacis Llobet
-;2016201681
 ;II Semestre 2016
 ;5/9/2016
 
 ;Manual de Usuario
-;Este es un programa que comprimey descomprime archivos 
+;Este es un programa que comprime y descomprime archivos 
 ;Para comprimir se introduce en la linea de comandos la opcion -c seguida del pathname de un archivo txt
 ;el producto de esta operacion es un archivo .rlp
 ;para comprimir lo que hace el programa es tomar los 15 caracteres mas comunes y reemplazarlos por un codigo de un nible
