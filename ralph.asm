@@ -1,7 +1,3 @@
-;Arquitectura de Computadoras
-;II Semestre 2016
-;5/9/2016
-
 ;Manual de Usuario
 ;Este es un programa que comprime y descomprime archivos 
 ;Para comprimir se introduce en la linea de comandos la opcion -c seguida del pathname de un archivo txt
@@ -16,14 +12,6 @@
 ;para observar la ayuda se puede introducir la opcion -a o simplemente no introducir nada en la linea de comandos despues de invocar al programa
 
 
-;Analisis de Resultados
-;Entrada por la linea de comandos: A
-;Compresion: A
-;Descompresion: A
-;Muestra de tamano inicial, final y tabla de top15: A
-;Acerca de: A 
-;Ayuda: A
-;Manejo de errores: A 
 
  datos segment
 	handle dw ?;donde se guardara el handle del archivo con el que se trabajara
